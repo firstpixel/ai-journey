@@ -1,1 +1,92 @@
 # ai-journey
+
+# My AI Projects & Learning Journey
+
+A comprehensive log of my AI projects, study materials, and reflections. This document is organized by topic and includes links to GitHub repositories, YouTube videos, articles, and more.
+
+## Table of Contents
+- [Projects](#projects)
+  - [Neural Networks](#neural-networks)
+  - [Large Language Models (LLMs)](#large-language-models-llms)
+  - [Agents](#agents)
+  - [Other Projects](#other-projects)
+- [Learning Resources](#learning-resources)
+  - [Courses & Tutorials](#courses--tutorials)
+  - [YouTube Videos](#youtube-videos)
+  - [Books & Articles](#books--articles)
+  - [Papers](#papers)
+- [Notes & Reflections](#notes--reflections)
+- [Tools & Libraries](#tools--libraries)
+
+---
+
+## Projects
+
+### Neural Networks
+- **[Project Name](https://github.com/yourusername/project1)**  
+  *A brief description of what the project does and what you learned.*
+- **[Project Name](https://github.com/yourusername/project2)**  
+  *Another short description...*
+
+### Large Language Models (LLMs)
+- **[LLM Project Name](https://github.com/yourusername/llm-project)**  
+  *Project overview and key takeaways.*
+
+### Agents
+- **[Agent Project Name](https://github.com/yourusername/agent-project)**  
+  *Short description, technologies used, etc.*
+
+### Other Projects
+- **[Other AI Project Name](https://github.com/yourusername/other-ai-project)**  
+  *Description...*
+
+---
+
+## Learning Resources
+
+### Courses & Tutorials
+- **Neural Networks:**  
+  - [Course Name](https://linktocourse.com) - *Brief note on why it's useful or what you learned.*
+- **LLMs:**  
+  - [Tutorial Name](https://linktotutorial.com) - *A summary of the content and key points.*
+- **Agents:**  
+  - [Course Name](https://linktocourse.com) - *Summary and insights.*
+
+### YouTube Videos
+- **[Video Title](https://youtu.be/yourvideoID)**  
+  *A quick summary of the video and its major insights.*
+- **[Another Video Title](https://youtu.be/yourvideoID)**  
+  *Key takeaways and why it was helpful.*
+
+### Books & Articles
+- **[Book/Article Title](https://linktobook.com)**  
+  *Summary or notes on the content.*
+- **[Another Book/Article Title](https://linktoarticle.com)**  
+  *Important concepts and reflections.*
+
+### Papers
+- **[Paper Title](https://linktopaper.com)**  
+  *Authors, publication venue, and a brief summary of the findings or key contributions.*
+- **[Another Paper Title](https://linktopaper.com)**  
+  *Authors, key takeaways, and why it's relevant to your studies.*
+  
+*Feel free to add as many papers as needed, along with notes on the methodologies, experiments, and implications discussed in each.*
+
+---
+
+## Notes & Reflections
+- **General Observations:**  
+  *Thoughts on trends in AI, challenges faced, and successes achieved.*
+- **Project-Specific Learnings:**  
+  *What you learned from each project, ideas for improvements, and potential next steps.*
+
+---
+
+## Tools & Libraries
+- **Frameworks:** TensorFlow, PyTorch, etc.
+- **Libraries:** Hugging Face Transformers, scikit-learn, etc.
+- **Other Resources:** Links to documentation, code snippets, etc.
+
+---
+
+*Last updated: YYYY-MM-DD*

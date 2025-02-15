@@ -23,8 +23,8 @@ A comprehensive log of my AI projects, study materials, and reflections. This do
 ## Projects
 
 ### Neural Networks
-- **[Project Name](https://github.com/yourusername/project1)**  
-  *A brief description of what the project does and what you learned.*
+- **[Neural network C](https://github.com/firstpixel/c-neural-network/tree/main)**  
+  *This project implements a simple neural network in C that learns basic logic functions (XOR, XNOR, OR, AND, NOR, NAND). It uses a single hidden layer with backpropagation and momentum-based updates, along with Xavier initialization for the weights. The network also supports checkpointing so that training can be resumed from a saved state.*
 - **[Project Name](https://github.com/yourusername/project2)**  
   *Another short description...*
 

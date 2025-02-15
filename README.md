@@ -35,7 +35,7 @@ A comprehensive log of my AI projects, study materials, and reflections. This do
 
 ### Text to Speech Models (TTSs)
 - **[F5-TTS-pt-br](https://huggingface.co/firstpixel/F5-TTS-pt-br)**  
-  *Contains pre-trained weights for Portuguese BR in F5-TTS. It only speaks portuguese as it is a preliminary test. Tokenizer is the same as original F5-TTS from https://huggingface.co/SWivid/F5-TTS.*
+  *Project to learn how to train a TTS Model. Contains pre-trained weights for Portuguese BR in F5-TTS. It only speaks portuguese as it is a preliminary test.
 
 ### Agents
 - **[Agent Project Name](https://github.com/yourusername/agent-project)**  

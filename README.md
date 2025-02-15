@@ -8,6 +8,7 @@ A comprehensive log of my AI projects, study materials, and reflections. This do
 - [Projects](#projects)
   - [Neural Networks](#neural-networks)
   - [Large Language Models (LLMs)](#large-language-models-llms)
+  - [Text to Speech Models (TTSs)](#text-to-speech-models-ttss)
   - [Agents](#agents)
   - [Other Projects](#other-projects)
 - [Learning Resources](#learning-resources)
@@ -31,6 +32,10 @@ A comprehensive log of my AI projects, study materials, and reflections. This do
 ### Large Language Models (LLMs)
 - **[LLM Project Name](https://github.com/yourusername/llm-project)**  
   *Project overview and key takeaways.*
+
+### Text to Speech Models (TTSs)
+- **[F5-TTS-pt-br](https://huggingface.co/firstpixel/F5-TTS-pt-br)**  
+  *Contains pre-trained weights for Portuguese BR in F5-TTS. It only speaks portuguese as it is a preliminary test. Tokenizer is the same as original F5-TTS from https://huggingface.co/SWivid/F5-TTS.*
 
 ### Agents
 - **[Agent Project Name](https://github.com/yourusername/agent-project)**  

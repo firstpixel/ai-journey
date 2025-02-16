@@ -27,7 +27,7 @@ A comprehensive log of my AI projects, study materials, and reflections. This do
 - **[Neural network C](https://github.com/firstpixel/c-neural-network/tree/main)**  
   *This project implements a simple neural network in C that learns basic logic functions (XOR, XNOR, OR, AND, NOR, NAND). It uses a single hidden layer with backpropagation and momentum-based updates, along with Xavier initialization for the weights. The network also supports checkpointing so that training can be resumed from a saved state.*
 - **[Neural network Python](https://github.com/firstpixel/neural-network)**  
-  *This project implements a simple neural network in python that learns basic logic functions (XOR, XNOR, OR, AND, NOR, NAND). It uses a single hidden layer with backpropagation and momentum-based updates, along with Xavier initialization for the weights. The network also supports checkpointing so that training can be resumed from a saved state.*
+  *This project is a Python port of a C feed-forward neural network featuring one hidden layer, backpropagation with momentum, Xavier weight initialization, checkpointing for saving/loading parameters, and custom logic for logical operations (XOR, XNOR, OR, AND, NOR, NAND).*
 
 ### Large Language Models (LLMs)
 - **[LLM Project Name](https://github.com/yourusername/llm-project)**  

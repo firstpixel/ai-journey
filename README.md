@@ -92,6 +92,10 @@ A comprehensive log of my AI projects, study materials, and reflections. This do
 - **Frameworks:** TensorFlow, PyTorch, etc.
 - **Libraries:** Hugging Face Transformers, scikit-learn, etc.
 - **Other Resources:** Links to documentation, code snippets, etc.
+- **[LAPACK](https://www.netlib.org/lapack/lapack-3.12.1.html)**
+*LAPACK builds on the BLAS routines to provide higher-level routines for more complex linear algebra tasks.*
+- **[BLAS](https://www.netlib.org/blas/)**
+*The BLAS (Basic Linear Algebra Subprograms) are routines that provide standard building blocks for performing basic vector and matrix operations.*
 
 ---
 

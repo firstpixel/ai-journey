@@ -40,7 +40,7 @@ A comprehensive log of my AI projects, study materials, and reflections. This do
 
 ### Agents
 - **[Agent Project Name](https://github.com/yourusername/agent-project)**  
-  *Short description, technologies used, etc.*
+  *Agent Workflow is a modular framework designed to orchestrate a series of language model (LLM) agents in a flexible and dynamic workflow.*
 
 ### Other Projects
 - **[Other AI Project Name](https://github.com/yourusername/other-ai-project)**  

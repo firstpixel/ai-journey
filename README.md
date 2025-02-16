@@ -39,7 +39,7 @@ A comprehensive log of my AI projects, study materials, and reflections. This do
   *Project to learn how to train a TTS Model. Contains pre-trained weights for Portuguese BR in F5-TTS. It only speaks portuguese as it is a preliminary test.
 
 ### Agents
-- **[Agent Project Name](https://github.com/yourusername/agent-project)**  
+- **[Agent Workflow](https://github.com/yourusername/agent-project)**  
   *Agent Workflow is a modular framework designed to orchestrate a series of language model (LLM) agents in a flexible and dynamic workflow.*
 
 ### Other Projects

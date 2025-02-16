@@ -7,7 +7,7 @@ A comprehensive log of my AI projects, study materials, and reflections. This do
 ## Table of Contents
 - [Projects](#projects)
   - [Neural Networks](#neural-networks)
-  - [Large Language Models (LLMs)](#large-language-models-llms)
+ <!--  - [Large Language Models (LLMs)](#large-language-models-llms) -->
   - [Text to Speech Models (TTSs)](#text-to-speech-models-ttss)
   - [Agents](#agents)
   - [Other Projects](#other-projects)
@@ -29,11 +29,11 @@ A comprehensive log of my AI projects, study materials, and reflections. This do
   *This project implements a simple neural network in C that learns basic logic functions (XOR, XNOR, OR, AND, NOR, NAND). It uses a single hidden layer with backpropagation and momentum-based updates, along with Xavier initialization for the weights. The network also supports checkpointing so that training can be resumed from a saved state.*
 - **[Neural network Python](https://github.com/firstpixel/neural-network)**  
   *This project is a Python port of a C feed-forward neural network featuring one hidden layer, backpropagation with momentum, Xavier weight initialization, checkpointing for saving/loading parameters, and custom logic for logical operations (XOR, XNOR, OR, AND, NOR, NAND).*
-
+<!-- 
 ### Large Language Models (LLMs)
 - **[LLM Project Name](https://github.com/yourusername/llm-project)**  
   *Project overview and key takeaways.*
-
+ -->
 ### Text to Speech Models (TTSs)
 - **[F5-TTS-pt-br](https://huggingface.co/firstpixel/F5-TTS-pt-br)**  
   *Project to learn how to train a TTS Model. Contains pre-trained weights for Portuguese BR in F5-TTS. It only speaks portuguese as it is a preliminary test.
